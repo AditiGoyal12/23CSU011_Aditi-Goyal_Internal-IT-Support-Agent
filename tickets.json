@@ -1,0 +1,117 @@
+[
+    {
+        "ticket_id": "IT-20260917-171531",
+        "created_at": "2026-09-17 17:15:31",
+        "category": "Security Incident",
+        "priority": "HIGH",
+        "status": "ESCALATED",
+        "assigned_team": "IT Security",
+        "issue": "I accidentally shared my company password with someone.",
+        "source": [
+            "password_account_policy.txt",
+            "security_incident_policy.txt"
+        ]
+    },
+    {
+        "ticket_id": "IT-20260917-171800",
+        "created_at": "2026-09-17 17:18:00",
+        "category": "Security Incident",
+        "priority": "HIGH",
+        "status": "ESCALATED",
+        "assigned_team": "IT Security",
+        "issue": "I accidentally shared my company password with someone.",
+        "source": [
+            "password_account_policy.txt",
+            "security_incident_policy.txt"
+        ]
+    },
+    {
+        "ticket_id": "IT-20260917-172316",
+        "created_at": "2026-09-17 17:23:16",
+        "category": "Security Incident",
+        "priority": "HIGH",
+        "status": "ESCALATED",
+        "assigned_team": "IT Security",
+        "issue": "I accidentally shared my company password with someone.",
+        "source": [
+            "password_account_policy.txt",
+            "security_incident_policy.txt"
+        ]
+    },
+    {
+        "ticket_id": "IT-20260917-172821",
+        "created_at": "2026-09-17 17:28:21",
+        "category": "Security Incident",
+        "priority": "HIGH",
+        "status": "ESCALATED",
+        "assigned_team": "IT Security",
+        "issue": "I accidentally shared my company password with someone.",
+        "source": [
+            "password_account_policy.txt",
+            "security_incident_policy.txt"
+        ]
+    },
+    {
+        "ticket_id": "IT-20260917-172944",
+        "created_at": "2026-09-17 17:29:44",
+        "category": "Security Incident",
+        "priority": "HIGH",
+        "status": "ESCALATED",
+        "assigned_team": "IT Security",
+        "issue": "I accidentally shared my company password with someone.",
+        "source": [
+            "password_account_policy.txt",
+            "security_incident_policy.txt"
+        ]
+    },
+    {
+        "ticket_id": "IT-20260917-174108",
+        "created_at": "2026-09-17 17:41:08",
+        "category": "Security Incident",
+        "priority": "HIGH",
+        "status": "ESCALATED",
+        "assigned_team": "IT Security",
+        "issue": "I accidentally shared my company password with someone.",
+        "source": [
+            "password_account_policy.txt",
+            "security_incident_policy.txt"
+        ]
+    },
+    {
+        "ticket_id": "IT-20260917-174111",
+        "created_at": "2026-09-17 17:41:11",
+        "category": "Security Incident",
+        "priority": "HIGH",
+        "status": "ESCALATED",
+        "assigned_team": "IT Security",
+        "issue": "I accidentally shared my company password with someone.",
+        "source": [
+            "password_account_policy.txt",
+            "security_incident_policy.txt"
+        ]
+    },
+    {
+        "ticket_id": "IT-20260917-174906",
+        "created_at": "2026-09-17 17:49:06",
+        "category": "General IT Support",
+        "priority": "MEDIUM",
+        "status": "OPEN",
+        "assigned_team": "IT Support",
+        "issue": "My printer is showing a strange error and I don't know what it means.",
+        "source": [
+            "No matching company knowledge-base document"
+        ]
+    },
+    {
+        "ticket_id": "IT-20260917-174922",
+        "created_at": "2026-09-17 17:49:22",
+        "category": "General IT Support",
+        "priority": "MEDIUM",
+        "status": "OPEN",
+        "assigned_team": "IT Support",
+        "issue": "My printer is showing error code E45 on my HP printer.",
+        "source": [
+            "No matching company knowledge-base document"
+        ]
+    }
+]

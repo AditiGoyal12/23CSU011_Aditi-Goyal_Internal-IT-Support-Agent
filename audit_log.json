@@ -1,0 +1,592 @@
+[
+    {
+        "timestamp": "2026-09-17 17:18:00",
+        "event": "ISSUE_RECEIVED",
+        "details": "I accidentally shared my company password with someone."
+    },
+    {
+        "timestamp": "2026-09-17 17:18:00",
+        "event": "RISK_CHECK",
+        "details": "Risk detected: True"
+    },
+    {
+        "timestamp": "2026-09-17 17:18:00",
+        "event": "TICKET_CREATED",
+        "details": "Ticket IT-20260917-171800 created and assigned to IT Security"
+    },
+    {
+        "timestamp": "2026-09-17 17:18:00",
+        "event": "ISSUE_ESCALATED",
+        "details": "Security incident escalated as HIGH priority"
+    },
+    {
+        "timestamp": "2026-09-17 17:18:30",
+        "event": "ISSUE_RECEIVED",
+        "details": "My Outlook is not syncing new emails."
+    },
+    {
+        "timestamp": "2026-09-17 17:18:30",
+        "event": "RISK_CHECK",
+        "details": "Risk detected: False"
+    },
+    {
+        "timestamp": "2026-09-17 17:18:30",
+        "event": "KNOWLEDGE_BASE_SEARCH",
+        "details": "Found 3 matching documents"
+    },
+    {
+        "timestamp": "2026-09-17 17:18:39",
+        "event": "AI_RESPONSE_GENERATED",
+        "details": "Gemini generated the IT support response"
+    },
+    {
+        "timestamp": "2026-09-17 17:18:39",
+        "event": "SOURCE_SHOWN",
+        "details": "email_troubleshooting.txt, password_account_policy.txt, security_incident_policy.txt"
+    },
+    {
+        "timestamp": "2026-09-17 17:22:40",
+        "event": "ISSUE_RECEIVED",
+        "details": "My Outlook is not syncing new emails."
+    },
+    {
+        "timestamp": "2026-09-17 17:22:40",
+        "event": "RISK_CHECK",
+        "details": "Risk detected: False"
+    },
+    {
+        "timestamp": "2026-09-17 17:22:40",
+        "event": "KNOWLEDGE_BASE_SEARCH",
+        "details": "Found 3 matching documents"
+    },
+    {
+        "timestamp": "2026-09-17 17:22:49",
+        "event": "AI_RESPONSE_GENERATED",
+        "details": "Gemini generated the IT support response"
+    },
+    {
+        "timestamp": "2026-09-17 17:22:49",
+        "event": "SOURCE_SHOWN",
+        "details": "email_troubleshooting.txt, password_account_policy.txt, security_incident_policy.txt"
+    },
+    {
+        "timestamp": "2026-09-17 17:23:16",
+        "event": "ISSUE_RECEIVED",
+        "details": "I accidentally shared my company password with someone."
+    },
+    {
+        "timestamp": "2026-09-17 17:23:16",
+        "event": "RISK_CHECK",
+        "details": "Risk detected: True"
+    },
+    {
+        "timestamp": "2026-09-17 17:23:16",
+        "event": "TICKET_CREATED",
+        "details": "Ticket IT-20260917-172316 created and assigned to IT Security"
+    },
+    {
+        "timestamp": "2026-09-17 17:23:16",
+        "event": "ISSUE_ESCALATED",
+        "details": "Security incident escalated as HIGH priority"
+    },
+    {
+        "timestamp": "2026-09-17 17:27:32",
+        "event": "ISSUE_RECEIVED",
+        "details": "My Outlook is not syncing new emails."
+    },
+    {
+        "timestamp": "2026-09-17 17:27:32",
+        "event": "RISK_CHECK",
+        "details": "Risk detected: False"
+    },
+    {
+        "timestamp": "2026-09-17 17:27:32",
+        "event": "KNOWLEDGE_BASE_SEARCH",
+        "details": "Found 1 matching documents"
+    },
+    {
+        "timestamp": "2026-09-17 17:27:42",
+        "event": "AI_RESPONSE_GENERATED",
+        "details": "Gemini generated the IT support response"
+    },
+    {
+        "timestamp": "2026-09-17 17:27:42",
+        "event": "SOURCE_SHOWN",
+        "details": "email_troubleshooting.txt"
+    },
+    {
+        "timestamp": "2026-09-17 17:27:50",
+        "event": "ISSUE_RECEIVED",
+        "details": "My company VPN is not connecting."
+    },
+    {
+        "timestamp": "2026-09-17 17:27:50",
+        "event": "RISK_CHECK",
+        "details": "Risk detected: False"
+    },
+    {
+        "timestamp": "2026-09-17 17:27:50",
+        "event": "KNOWLEDGE_BASE_SEARCH",
+        "details": "Found 1 matching documents"
+    },
+    {
+        "timestamp": "2026-09-17 17:28:00",
+        "event": "AI_RESPONSE_GENERATED",
+        "details": "Gemini generated the IT support response"
+    },
+    {
+        "timestamp": "2026-09-17 17:28:00",
+        "event": "SOURCE_SHOWN",
+        "details": "vpn_troubleshooting.txt"
+    },
+    {
+        "timestamp": "2026-09-17 17:28:06",
+        "event": "ISSUE_RECEIVED",
+        "details": "My laptop is not working."
+    },
+    {
+        "timestamp": "2026-09-17 17:28:06",
+        "event": "RISK_CHECK",
+        "details": "Risk detected: False"
+    },
+    {
+        "timestamp": "2026-09-17 17:28:06",
+        "event": "KNOWLEDGE_BASE_SEARCH",
+        "details": "Found 1 matching documents"
+    },
+    {
+        "timestamp": "2026-09-17 17:28:15",
+        "event": "AI_RESPONSE_GENERATED",
+        "details": "Gemini generated the IT support response"
+    },
+    {
+        "timestamp": "2026-09-17 17:28:15",
+        "event": "SOURCE_SHOWN",
+        "details": "hardware_support_policy.txt"
+    },
+    {
+        "timestamp": "2026-09-17 17:28:21",
+        "event": "ISSUE_RECEIVED",
+        "details": "I accidentally shared my company password with someone."
+    },
+    {
+        "timestamp": "2026-09-17 17:28:21",
+        "event": "RISK_CHECK",
+        "details": "Risk detected: True"
+    },
+    {
+        "timestamp": "2026-09-17 17:28:21",
+        "event": "TICKET_CREATED",
+        "details": "Ticket IT-20260917-172821 created and assigned to IT Security"
+    },
+    {
+        "timestamp": "2026-09-17 17:28:21",
+        "event": "ISSUE_ESCALATED",
+        "details": "Security incident escalated as HIGH priority"
+    },
+    {
+        "timestamp": "2026-09-17 17:29:23",
+        "event": "ISSUE_RECEIVED",
+        "details": "My Outlook is not syncing new emails."
+    },
+    {
+        "timestamp": "2026-09-17 17:29:24",
+        "event": "RISK_CHECK",
+        "details": "Risk detected: False"
+    },
+    {
+        "timestamp": "2026-09-17 17:29:24",
+        "event": "KNOWLEDGE_BASE_SEARCH",
+        "details": "Found 1 matching documents"
+    },
+    {
+        "timestamp": "2026-09-17 17:29:25",
+        "event": "AI_SERVICE_ERROR",
+        "details": "Gemini service was temporarily unavailable"
+    },
+    {
+        "timestamp": "2026-09-17 17:29:25",
+        "event": "SOURCE_SHOWN",
+        "details": "email_troubleshooting.txt"
+    },
+    {
+        "timestamp": "2026-09-17 17:29:44",
+        "event": "ISSUE_RECEIVED",
+        "details": "I accidentally shared my company password with someone."
+    },
+    {
+        "timestamp": "2026-09-17 17:29:44",
+        "event": "RISK_CHECK",
+        "details": "Risk detected: True"
+    },
+    {
+        "timestamp": "2026-09-17 17:29:44",
+        "event": "TICKET_CREATED",
+        "details": "Ticket IT-20260917-172944 created and assigned to IT Security"
+    },
+    {
+        "timestamp": "2026-09-17 17:29:44",
+        "event": "ISSUE_ESCALATED",
+        "details": "Security incident escalated as HIGH priority"
+    },
+    {
+        "timestamp": "2026-09-17 17:32:06",
+        "event": "ISSUE_RECEIVED",
+        "details": "My Outlook is not syncing new emails."
+    },
+    {
+        "timestamp": "2026-09-17 17:32:06",
+        "event": "RISK_CHECK",
+        "details": "Risk detected: False"
+    },
+    {
+        "timestamp": "2026-09-17 17:32:06",
+        "event": "KNOWLEDGE_BASE_SEARCH",
+        "details": "Found 1 matching documents"
+    },
+    {
+        "timestamp": "2026-09-17 17:32:07",
+        "event": "AI_SERVICE_ERROR",
+        "details": "Gemini error: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-3.6-flash\\nPlease retry in 52.431444272s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-3.6-flash'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '52s'}]}}"
+    },
+    {
+        "timestamp": "2026-09-17 17:32:07",
+        "event": "SOURCE_SHOWN",
+        "details": "email_troubleshooting.txt"
+    },
+    {
+        "timestamp": "2026-09-17 17:33:04",
+        "event": "ISSUE_RECEIVED",
+        "details": "My Outlook is not syncing new emails."
+    },
+    {
+        "timestamp": "2026-09-17 17:33:04",
+        "event": "RISK_CHECK",
+        "details": "Risk detected: False"
+    },
+    {
+        "timestamp": "2026-09-17 17:33:04",
+        "event": "KNOWLEDGE_BASE_SEARCH",
+        "details": "Found 1 matching documents"
+    },
+    {
+        "timestamp": "2026-09-17 17:33:05",
+        "event": "AI_SERVICE_ERROR",
+        "details": "429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-3.6-flash\\nPlease retry in 54.913892897s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-3.6-flash'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '54s'}]}}"
+    },
+    {
+        "timestamp": "2026-09-17 17:33:05",
+        "event": "FALLBACK_RESPONSE_USED",
+        "details": "Company knowledge-base response used because Gemini was unavailable"
+    },
+    {
+        "timestamp": "2026-09-17 17:33:05",
+        "event": "SOURCE_SHOWN",
+        "details": "email_troubleshooting.txt"
+    },
+    {
+        "timestamp": "2026-09-17 17:35:07",
+        "event": "ISSUE_RECEIVED",
+        "details": "My Outlook is not syncing new emails."
+    },
+    {
+        "timestamp": "2026-09-17 17:35:07",
+        "event": "RISK_CHECK",
+        "details": "Risk detected: False"
+    },
+    {
+        "timestamp": "2026-09-17 17:35:07",
+        "event": "KNOWLEDGE_BASE_SEARCH",
+        "details": "Found 1 matching documents"
+    },
+    {
+        "timestamp": "2026-09-17 17:35:09",
+        "event": "AI_SERVICE_ERROR",
+        "details": "AI service unavailable; fallback response activated"
+    },
+    {
+        "timestamp": "2026-09-17 17:35:09",
+        "event": "FALLBACK_RESPONSE_USED",
+        "details": "Company knowledge-base response used"
+    },
+    {
+        "timestamp": "2026-09-17 17:35:09",
+        "event": "SOURCE_SHOWN",
+        "details": "email_troubleshooting.txt"
+    },
+    {
+        "timestamp": "2026-09-17 17:39:24",
+        "event": "ISSUE_RECEIVED",
+        "details": "My Outlook is not syncing new emails."
+    },
+    {
+        "timestamp": "2026-09-17 17:39:24",
+        "event": "RISK_CHECK",
+        "details": "Risk detected: False"
+    },
+    {
+        "timestamp": "2026-09-17 17:39:24",
+        "event": "KNOWLEDGE_BASE_SEARCH",
+        "details": "Found 1 matching documents"
+    },
+    {
+        "timestamp": "2026-09-17 17:39:31",
+        "event": "AI_RESPONSE_GENERATED",
+        "details": "Gemini generated the IT support response"
+    },
+    {
+        "timestamp": "2026-09-17 17:39:31",
+        "event": "SOURCE_SHOWN",
+        "details": "email_troubleshooting.txt"
+    },
+    {
+        "timestamp": "2026-09-17 17:41:08",
+        "event": "ISSUE_RECEIVED",
+        "details": "I accidentally shared my company password with someone."
+    },
+    {
+        "timestamp": "2026-09-17 17:41:08",
+        "event": "RISK_CHECK",
+        "details": "Risk detected: True"
+    },
+    {
+        "timestamp": "2026-09-17 17:41:08",
+        "event": "TICKET_CREATED",
+        "details": "Ticket IT-20260917-174108 created and assigned to IT Security"
+    },
+    {
+        "timestamp": "2026-09-17 17:41:08",
+        "event": "ISSUE_ESCALATED",
+        "details": "Security incident escalated as HIGH priority"
+    },
+    {
+        "timestamp": "2026-09-17 17:41:11",
+        "event": "ISSUE_RECEIVED",
+        "details": "I accidentally shared my company password with someone."
+    },
+    {
+        "timestamp": "2026-09-17 17:41:11",
+        "event": "RISK_CHECK",
+        "details": "Risk detected: True"
+    },
+    {
+        "timestamp": "2026-09-17 17:41:11",
+        "event": "TICKET_CREATED",
+        "details": "Ticket IT-20260917-174111 created and assigned to IT Security"
+    },
+    {
+        "timestamp": "2026-09-17 17:41:11",
+        "event": "ISSUE_ESCALATED",
+        "details": "Security incident escalated as HIGH priority"
+    },
+    {
+        "timestamp": "2026-09-17 17:41:58",
+        "event": "ISSUE_RECEIVED",
+        "details": "My company VPN is not connecting."
+    },
+    {
+        "timestamp": "2026-09-17 17:41:58",
+        "event": "RISK_CHECK",
+        "details": "Risk detected: False"
+    },
+    {
+        "timestamp": "2026-09-17 17:41:58",
+        "event": "KNOWLEDGE_BASE_SEARCH",
+        "details": "Found 1 matching documents"
+    },
+    {
+        "timestamp": "2026-09-17 17:42:17",
+        "event": "AI_RESPONSE_GENERATED",
+        "details": "Gemini generated the IT support response"
+    },
+    {
+        "timestamp": "2026-09-17 17:42:17",
+        "event": "SOURCE_SHOWN",
+        "details": "vpn_troubleshooting.txt"
+    },
+    {
+        "timestamp": "2026-09-17 17:43:37",
+        "event": "ISSUE_RECEIVED",
+        "details": "My laptop is not turning on."
+    },
+    {
+        "timestamp": "2026-09-17 17:43:37",
+        "event": "RISK_CHECK",
+        "details": "Risk detected: False"
+    },
+    {
+        "timestamp": "2026-09-17 17:43:37",
+        "event": "KNOWLEDGE_BASE_SEARCH",
+        "details": "Found 1 matching documents"
+    },
+    {
+        "timestamp": "2026-09-17 17:43:46",
+        "event": "AI_RESPONSE_GENERATED",
+        "details": "Gemini generated the IT support response"
+    },
+    {
+        "timestamp": "2026-09-17 17:43:46",
+        "event": "SOURCE_SHOWN",
+        "details": "hardware_support_policy.txt"
+    },
+    {
+        "timestamp": "2026-09-17 17:45:28",
+        "event": "ISSUE_RECEIVED",
+        "details": "My printer is showing a strange error and I don't know what it means."
+    },
+    {
+        "timestamp": "2026-09-17 17:45:28",
+        "event": "RISK_CHECK",
+        "details": "Risk detected: False"
+    },
+    {
+        "timestamp": "2026-09-17 17:45:28",
+        "event": "KNOWLEDGE_BASE_SEARCH",
+        "details": "Found 1 matching documents"
+    },
+    {
+        "timestamp": "2026-09-17 17:45:31",
+        "event": "AI_SERVICE_ERROR",
+        "details": "AI service unavailable; fallback response activated"
+    },
+    {
+        "timestamp": "2026-09-17 17:45:31",
+        "event": "FALLBACK_RESPONSE_USED",
+        "details": "Company knowledge-base response used"
+    },
+    {
+        "timestamp": "2026-09-17 17:45:31",
+        "event": "SOURCE_SHOWN",
+        "details": "hardware_support_policy.txt"
+    },
+    {
+        "timestamp": "2026-09-17 17:47:49",
+        "event": "ISSUE_RECEIVED",
+        "details": "My printer is showing a strange error and I don't know what it means."
+    },
+    {
+        "timestamp": "2026-09-17 17:47:49",
+        "event": "RISK_CHECK",
+        "details": "Risk detected: False"
+    },
+    {
+        "timestamp": "2026-09-17 17:47:49",
+        "event": "KNOWLEDGE_BASE_SEARCH",
+        "details": "Found 0 matching documents"
+    },
+    {
+        "timestamp": "2026-09-17 17:47:49",
+        "event": "FALLBACK_RESPONSE_USED",
+        "details": "Company knowledge-base response used"
+    },
+    {
+        "timestamp": "2026-09-17 17:47:49",
+        "event": "SOURCE_SHOWN",
+        "details": "No matching company knowledge-base document found"
+    },
+    {
+        "timestamp": "2026-09-17 17:47:59",
+        "event": "ISSUE_RECEIVED",
+        "details": "My printer is showing a strange error and I don't know what it means."
+    },
+    {
+        "timestamp": "2026-09-17 17:47:59",
+        "event": "RISK_CHECK",
+        "details": "Risk detected: False"
+    },
+    {
+        "timestamp": "2026-09-17 17:47:59",
+        "event": "KNOWLEDGE_BASE_SEARCH",
+        "details": "Found 0 matching documents"
+    },
+    {
+        "timestamp": "2026-09-17 17:47:59",
+        "event": "FALLBACK_RESPONSE_USED",
+        "details": "Company knowledge-base response used"
+    },
+    {
+        "timestamp": "2026-09-17 17:47:59",
+        "event": "SOURCE_SHOWN",
+        "details": "No matching company knowledge-base document found"
+    },
+    {
+        "timestamp": "2026-09-17 17:49:06",
+        "event": "ISSUE_RECEIVED",
+        "details": "My printer is showing a strange error and I don't know what it means."
+    },
+    {
+        "timestamp": "2026-09-17 17:49:06",
+        "event": "RISK_CHECK",
+        "details": "Risk detected: False"
+    },
+    {
+        "timestamp": "2026-09-17 17:49:06",
+        "event": "KNOWLEDGE_BASE_SEARCH",
+        "details": "Found 0 matching documents"
+    },
+    {
+        "timestamp": "2026-09-17 17:49:06",
+        "event": "TICKET_CREATED",
+        "details": "Ticket IT-20260917-174906 created for unsupported IT issue"
+    },
+    {
+        "timestamp": "2026-09-17 17:49:06",
+        "event": "ISSUE_ESCALATED",
+        "details": "Unsupported issue routed to IT Support"
+    },
+    {
+        "timestamp": "2026-09-17 17:49:22",
+        "event": "ISSUE_RECEIVED",
+        "details": "My printer is showing error code E45 on my HP printer."
+    },
+    {
+        "timestamp": "2026-09-17 17:49:22",
+        "event": "RISK_CHECK",
+        "details": "Risk detected: False"
+    },
+    {
+        "timestamp": "2026-09-17 17:49:22",
+        "event": "KNOWLEDGE_BASE_SEARCH",
+        "details": "Found 0 matching documents"
+    },
+    {
+        "timestamp": "2026-09-17 17:49:22",
+        "event": "TICKET_CREATED",
+        "details": "Ticket IT-20260917-174922 created for unsupported IT issue"
+    },
+    {
+        "timestamp": "2026-09-17 17:49:22",
+        "event": "ISSUE_ESCALATED",
+        "details": "Unsupported issue routed to IT Support"
+    },
+    {
+        "timestamp": "2026-09-17 17:50:52",
+        "event": "ISSUE_RECEIVED",
+        "details": "My Outlook is not syncing new emails."
+    },
+    {
+        "timestamp": "2026-09-17 17:50:52",
+        "event": "RISK_CHECK",
+        "details": "Risk detected: False"
+    },
+    {
+        "timestamp": "2026-09-17 17:50:52",
+        "event": "KNOWLEDGE_BASE_SEARCH",
+        "details": "Found 1 matching documents"
+    },
+    {
+        "timestamp": "2026-09-17 17:50:53",
+        "event": "AI_SERVICE_ERROR",
+        "details": "AI service unavailable; fallback response activated"
+    },
+    {
+        "timestamp": "2026-09-17 17:50:53",
+        "event": "FALLBACK_RESPONSE_USED",
+        "details": "Company knowledge-base response used"
+    },
+    {
+        "timestamp": "2026-09-17 17:50:53",
+        "event": "SOURCE_SHOWN",
+        "details": "email_troubleshooting.txt"
+    }
+]
