@@ -1,0 +1,22 @@
+COMPANY IT KNOWLEDGE BASE
+Email Troubleshooting Guide
+
+Document ID: IT-EMAIL-001
+Department: IT Support
+
+Issue: Outlook is not syncing emails
+
+Recommended troubleshooting:
+
+1. Check that the employee has an active internet connection.
+2. Check whether Outlook shows "Disconnected" or "Trying to connect".
+3. Make sure "Work Offline" is disabled.
+4. Use Send/Receive > Send/Receive All Folders.
+5. Restart Outlook.
+6. If the issue continues, check Outlook Web Access to determine whether the problem is with the desktop application or the mailbox.
+7. If the issue cannot be resolved through these steps, create an IT support ticket.
+
+Escalation:
+If the employee reports suspicious emails, unauthorized account activity, or possible account compromise, stop normal troubleshooting and escalate the issue to IT Security.
+
+Source: Company Email Troubleshooting Guide, IT-EMAIL-001

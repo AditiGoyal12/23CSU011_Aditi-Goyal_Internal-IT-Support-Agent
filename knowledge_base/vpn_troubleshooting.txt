@@ -1,0 +1,22 @@
+COMPANY IT KNOWLEDGE BASE
+VPN Troubleshooting Guide
+
+Document ID: IT-VPN-001
+Department: IT Support
+
+Issue: Company VPN is not connecting
+
+Recommended troubleshooting:
+
+1. Check the employee's internet connection.
+2. Confirm that the employee is using the approved company VPN application.
+3. Verify the employee's username and password.
+4. Restart the VPN application.
+5. Restart the computer if the VPN still does not connect.
+6. Check whether other company services are accessible.
+7. If the VPN continues to fail, create an IT support ticket.
+
+Escalation:
+If the employee reports unauthorized access, stolen credentials, suspicious login activity, or possible security compromise, escalate immediately to IT Security.
+
+Source: Company VPN Troubleshooting Guide, IT-VPN-001

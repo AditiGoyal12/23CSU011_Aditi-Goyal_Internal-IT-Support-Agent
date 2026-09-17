@@ -1,0 +1,25 @@
+COMPANY IT KNOWLEDGE BASE
+Security Incident Policy
+
+Document ID: IT-SEC-001
+Department: IT Security
+
+Security incidents include:
+
+- Password or credential sharing
+- Suspected phishing
+- Suspicious login activity
+- Unauthorized account access
+- Lost or stolen company device
+- Malware or ransomware suspicion
+- Exposure of confidential company information
+
+Required action:
+
+1. Do not continue normal troubleshooting if a security incident is suspected.
+2. Collect the basic information provided by the employee.
+3. Escalate the issue to IT Security.
+4. Create a high-priority security ticket.
+5. Record the escalation in the audit trail.
+
+Source: Company Security Incident Policy, IT-SEC-001

@@ -1,0 +1,21 @@
+COMPANY IT KNOWLEDGE BASE
+Hardware Support Policy
+
+Document ID: IT-HW-001
+Department: IT Support
+
+Issue: Laptop or desktop hardware problem
+
+Recommended troubleshooting:
+
+1. Identify the affected device.
+2. Check whether the device powers on.
+3. Check the power cable or charger.
+4. Restart the device if possible.
+5. Record any error message shown.
+6. If the problem continues, create a hardware support ticket.
+
+Escalation:
+Physical damage, overheating, smoke, burning smell, or electrical safety concerns should be escalated immediately to IT Support.
+
+Source: Company Hardware Support Policy, IT-HW-001
